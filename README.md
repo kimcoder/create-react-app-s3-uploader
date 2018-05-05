@@ -34,6 +34,7 @@ module.exports = {
 };
 ```
 **CreateReactAppS3Uploader Parameters**
+
 |Name|Type|Required|Description|
 |:--:|:--:|:-----:|:----------|
 |**accessKeyId**|`{String}`|Required|AWS Access Key|
