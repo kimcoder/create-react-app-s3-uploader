@@ -1,0 +1,35 @@
+{
+  "name": "create-react-app-s3-uploader",
+  "version": "1.0.0",
+  "description": "webpack plugin ( for create-react-app ), when source build on production, this plugin upload static directory to aws s3 bucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">= 6.10.0",
+    "npm": ">= 3.10.10"
+  },
+  "keywords": [
+    "reactjs",
+    "create-react-app",
+    "aws",
+    "s3",
+    "webpack"
+  ],
+  "author": {
+    "name": "kimcoder",
+    "email": "kimcoder@me.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.229.1",
+    "path": "^0.12.7",
+    "tslint": "^5.9.1",
+    "tslint-config-airbnb": "^5.8.0",
+    "typescript": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.0.0"
+  }
+}
