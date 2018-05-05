@@ -8,7 +8,7 @@ When react builded on production, this plugin upload static directory to aws s3 
 
 ## install
 ---
-```bash
+```
 npm install --save create-react-app-s3-uploader
 ```
 
@@ -45,7 +45,6 @@ module.exports = {
 |**acl**|`{String}`|Optional|AWS S3 ACL, default `public-read`|
 |**cloudfront**|`{String}`|Optional|S3's CloudFront Domain.|
 |**replaceHtml**|`{boolean}`|Optional|default `false`. If you set to `true`, automatically change index.html's css & js's src to uploaded url|
-
 
 ## Reference
 ---
