@@ -46,10 +46,10 @@ module.exports = {
 
 ## Example
 ![Example S3](/example_s3.gif)
-live demo gif ( upload to s3 )
+<br>live demo gif ( upload to s3 )
 
 ![Example CloudFront](/example_cloudfront.gif)
-live demo gif ( upload to cloudfront )
+<br>live demo gif ( upload to cloudfront )
 
 ## Reference
 - ACL : [AWS ACL LIST](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/acl-overview.html)
