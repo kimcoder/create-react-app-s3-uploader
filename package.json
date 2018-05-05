@@ -31,5 +31,9 @@
   },
   "devDependencies": {
     "@types/node": "^10.0.0"
+  },
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/kimcoder/create-react-app-s3-uploader.git"
   }
 }
