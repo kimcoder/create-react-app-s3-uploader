@@ -46,6 +46,10 @@ module.exports = {
 |**cloudfront**|`{String}`|Optional|S3's CloudFront Domain.|
 |**replaceHtml**|`{boolean}`|Optional|default `false`. If you set to `true`, automatically change index.html's css & js's src to uploaded url|
 
+## Example
+---
+![Example S3](/example_s3.gif)
+![Example CloudFront](/example_cloudfront.gif)
 ## Reference
 ---
 - ACL : [AWS ACL LIST](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/acl-overview.html)
