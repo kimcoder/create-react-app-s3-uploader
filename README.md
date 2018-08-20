@@ -54,3 +54,4 @@ module.exports = {
 ## Reference
 - ACL : [AWS ACL LIST](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/acl-overview.html)
 - Content-Type : [HTTP MIME TYPE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types)
+- WebpackPlugin : [Webpack Plugin Docs](https://github.com/webpack/docs/wiki/plugins)
